@@ -1,3 +1,4 @@
+'use client'
 import React, { useState, useMemo } from 'react';
 import { Search, User, ShoppingBag, Calendar, TrendingUp, Package, Mail, MousePointer, ShoppingCart, Filter, ChevronDown, ChevronRight, Eye, Download, Plus, Edit2, MoreVertical, Globe, Store } from 'lucide-react';
 
